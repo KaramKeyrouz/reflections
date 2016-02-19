@@ -22,3 +22,11 @@ What are some situations when branches would be helpful in keeping your history 
 
 -Experimenting with some features
 -Making different versions
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams let you see each branch and where they branch out which helps when you want to 
+know what changes were/were not made in case you check out that branch.
+
+Also, the diagrams help to know if there is an unreachable commit for which we need to create a branch
+or discard.

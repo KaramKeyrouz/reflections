@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I'm writing this as part of an assginment in the hopes of maybe learning
+something, seeing as how things are looking quite grim and I will probably
+get screwed somewhere down the line at one point or another as is the custom.
+
+How could having easy access to the entire history of a file make you a more efficient
+programmer in the long term?
+
+This could help in finding out where something might have gone wrong, or could help determine
+how someone got to a certain result or choice. Furthermore, this might enable someone to revert
+to older changes in case alterations were made but the results turned out to be different from
+expectations.
+
+What do you think are the pros and cons of manually choosing when to create a commit,
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Manual:
+
+Pro:
+-can select based on logical units
+-can make as many/few as you want
+
+Cons:
+-forgetting to save
+-saving too much/not enough
+
+Auto:
+
+Pro:
+-no need for user to think about it
+-can be sure save is made even if user forgets
+
+Cons:
+-Criterion might be inappropriate leading to saves at useless intervals
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+while others, like Google Docs, treat each file separately?
+
+Git acknowledges that some files are interrelated and thus multiple files must be saved together
+whereas Google Docs would treat each file as an independent unit
+
+How might using version control make you more confident to make changes that could break something?
+
+Even if smthg breaks, you still have previous commits where it was working, so reverting and tweaking
+becomes easy to do with confidence and without worries

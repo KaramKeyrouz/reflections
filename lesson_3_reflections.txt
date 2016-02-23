@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+-working from different locations on different terminals
+-working in a group with other people
+-storage purposes
+-enable sharing with other people and get feedback

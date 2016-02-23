@@ -11,3 +11,13 @@ stay up-to-date with your remote repository?
 -Someone else might have uploaded a file that you don't want to pull just yet
 -Multiple sources might be pushing on GitHub
 -You may only want to pull specific files, not everything
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork: when you want to use someone else's repository but don't want/can't make changes to it and want to have
+your own version of it.
+
+Clone: when you want to copy a repository using either an online or a local source.
+
+Branch: when you want to create a new path within the same repository to try new things or make changes
+without affecting the master branch.

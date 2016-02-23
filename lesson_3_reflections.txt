@@ -27,3 +27,9 @@ What is the benefit of having a copy of the last known state of the remote store
 -help us know how far ahead/behind the local copy is
 -can determine if remote and local are out of sync
 -can determine if there is a need to pull/push
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Use collaboration software like google docs. Handling and using such software might make the interaction
+and work smoother/easier. However, it would be harder to manage different version and identify them. Also,
+changes and version are better seen on GitHub as it gives more control to the user.

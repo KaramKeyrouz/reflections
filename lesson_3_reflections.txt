@@ -21,3 +21,9 @@ Clone: when you want to copy a repository using either an online or a local sour
 
 Branch: when you want to create a new path within the same repository to try new things or make changes
 without affecting the master branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+-help us know how far ahead/behind the local copy is
+-can determine if remote and local are out of sync
+-can determine if there is a need to pull/push

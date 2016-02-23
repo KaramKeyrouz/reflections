@@ -33,3 +33,13 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Use collaboration software like google docs. Handling and using such software might make the interaction
 and work smoother/easier. However, it would be harder to manage different version and identify them. Also,
 changes and version are better seen on GitHub as it gives more control to the user.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does
+each approach have?
+
+Making changes in a separate branch is beneficial when we want to explore something new or make changes that won't
+be in the final version for sure; other people might want to review them first or we might want to test things out
+first as these changes might have undesirable results, different from our expectations.
+
+Changing directly in master on the other, is a lot less confusing and less time consuming, however this might lead
+to introducing changes that have not been agreed upon or are buggy to the "final" version.

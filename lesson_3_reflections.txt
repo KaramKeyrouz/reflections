@@ -4,3 +4,10 @@ When would you want to use a remote repository rather than keeping all your work
 -working in a group with other people
 -storage purposes
 -enable sharing with other people and get feedback
+
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+
+-Someone else might have uploaded a file that you don't want to pull just yet
+-Multiple sources might be pushing on GitHub
+-You may only want to pull specific files, not everything
